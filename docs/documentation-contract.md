@@ -35,3 +35,7 @@ docs/
 ```
 
 Page and directory names use lowercase kebab-case. This Spoke publishes to `/products/potpie/`.
+
+## Staging verification
+
+This note verifies that the Potpie Spoke documentation is fetched and published by the Docs Hub staging workflow.
