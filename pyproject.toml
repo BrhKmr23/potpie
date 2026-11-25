@@ -160,4 +160,4 @@ extend-select = ["S"]
 "potpie/cli/ui/setup_ux.py" = ["S112"]
 "tests/_auth_fakes.py" = ["S108"]
 "tests/unit/test_cli_linear.py" = ["S310"]
-"tests/unit/test_nudge_adapter.py" = ["S102"]
+"tests/unit/test_nudge_adapter.py" = ["S102"]1
